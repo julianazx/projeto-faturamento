@@ -41,8 +41,6 @@ Os dados da empresa contêm as seguintes colunas:
 1. Carregamento dos dados da empresa em um DataFrame do Pandas.
 2. Exploração inicial dos dados, como a exibição das primeiras linhas e informações sobre as colunas.
 3. Limpeza e preparação dos dados, incluindo a remoção de valores ausentes ou duplicados.
-4. Análise estatística descritiva, como média, mediana, mínimo, máximo e desvio padrão das colunas numéricas.
-5. Visualização dos dados por meio de gráficos, como gráficos de barras e gráficos de dispersão.
-6. Filtragem e seleção dos dados com base em critérios específicos, como período de tempo ou loja específica.
-7. Agrupamento e agregação dos dados para obter insights adicionais, como total de vendas por produto ou por cliente.
-8. Exportação dos dados modificados ou resultados da análise para um novo arquivo CSV.
+4. Visualização dos dados por meio de gráficos, como gráficos de barras e gráficos de dispersão.
+5. Filtragem e seleção dos dados com base em critérios específicos, como período de tempo ou loja específica.
+6. Agrupamento e agregação dos dados para obter insights adicionais, como total de vendas por produto ou por cliente.
